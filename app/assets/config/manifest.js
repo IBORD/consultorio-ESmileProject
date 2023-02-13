@@ -1,10 +1,3 @@
-class MyComponent extends React.Component<> {}
-class MyComponent extends React.Component<> {}
-class MyComponent extends React.Component<> {
-    state = {};
-}
-class MyComponent extends React.Component<> {
-    state = getState();
-}
-class MyComponent extends React.Component<> {
-}
+//= link tailwind.css
+//= link_tree ../images
+//= link_directory ../stylesheets .css
