@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dia_da_semana: MyString
+  horario_inicio: 2023-03-07 22:53:59
+  horario_termino: 2023-03-07 22:53:59
+  dentista: one
+
+two:
+  dia_da_semana: MyString
+  horario_inicio: 2023-03-07 22:53:59
+  horario_termino: 2023-03-07 22:53:59
+  dentista: two
